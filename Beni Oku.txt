@@ -1,0 +1,4 @@
+Veritabanı bağlantısı localhost ayarlarına göredir. 
+Veritabanı adı : mycalculator
+
+Veritabanını oluşturduktan sonra "calculated.sql" dosyasını/sorgusunu kullanabilirsiniz
